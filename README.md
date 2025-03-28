@@ -96,8 +96,6 @@ Abra o navegador e entre em `http://127.0.0.1:8000`
 Sinta-se à vontade para contribuir com melhorias! Basta fazer um **fork** do repositório e enviar um **pull request**. 🚀
 
 ---
-**👤 Autor:** Seu Nome  
-**📧 Contato:** [Seu Email / LinkedIn / GitHub]
 
 
 
